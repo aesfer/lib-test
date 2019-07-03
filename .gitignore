@@ -1,0 +1,7 @@
+/.idea
+/app/dist
+/app/node_modules
+/lib/dist
+/lib/node_modules
+/lib-local
+*.iml

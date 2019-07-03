@@ -1,0 +1,19 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "sideEffects": false,
+  "scripts": {
+    "build": "node script-build"
+  },
+  "devDependencies": {
+    "fs-extra": "^8.1.0",
+    "webpack": "^4.35.2",
+    "webpack-cli": "^3.3.5"
+  },
+  "main": "dist/lib.js",
+  "files": [
+    "dist/*"
+  ]
+}
